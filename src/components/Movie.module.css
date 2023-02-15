@@ -1,0 +1,15 @@
+.movie {
+  padding: 15px 10px;
+  border-radius: 3px;
+  background-color: rgb(8, 8, 95);
+  width: 90%;
+  box-shadow: 1px 1px 6px rgb(91, 91, 94);
+  border: none;
+  color: white;
+  margin: 10px 0;
+}
+
+.title {
+  color: yellow;
+  font-size: 1.7rem;
+}
