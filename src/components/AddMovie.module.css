@@ -1,0 +1,23 @@
+.control {
+  margin: 10px 10px;
+}
+
+.control label,
+input {
+  display: block;
+  text-align: left;
+}
+
+.control input,
+textarea {
+  border: 1px solid;
+  margin: 5px 0px 10px 0px;
+  width: 100%;
+  border-radius: 10px;
+  border-color: rgb(208, 197, 197);
+}
+
+textarea:focus,
+input:focus {
+  outline: none;
+}
